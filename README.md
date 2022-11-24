@@ -1,2 +1,2 @@
-# pairs_urban_data_visualisation
+# Paris Urban Data Visualization
 A python script, importing data from the Atelier Parisienne d'Urbanism and visualise 
